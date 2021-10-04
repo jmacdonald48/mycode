@@ -19,5 +19,5 @@ What things are needed to install the software and how to install them. For now,
 * [Python](https://www.python.org/) - The coding language used
 
 ## Authors
-
-* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
+I WANT TO LEARN MORE
+* **Your Name** - *Initial work* - [YourWebsite](https://example.com/
